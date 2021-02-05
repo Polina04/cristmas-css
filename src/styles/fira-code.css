@@ -1,0 +1,26 @@
+
+@font-face {
+  font-family: 'Fira Code';
+  font-style: normal;
+  font-weight: 600;
+  src: url('../assets/fonts/fira-code-v9-latin-600.eot');
+  src: local(''),
+       url('../assets/fonts/fira-code-v9-latin-600.eot?#iefix') format('embedded-opentype'), 
+       url('../assets/fonts/fira-code-v9-latin-600.woff2') format('woff2'),
+       url('../assets/fonts/fira-code-v9-latin-600.woff') format('woff'), 
+       url('../assets/fonts/fira-code-v9-latin-600.ttf') format('truetype'), 
+       url('../assets/fonts/fira-code-v9-latin-600.svg#FiraCode') format('svg'); 
+}
+
+@font-face {
+  font-family: 'Fira Code';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../assets/fonts/fira-code-v9-latin-regular.eot'); 
+  src: local(''),
+       url('../assets/fonts/fira-code-v9-latin-regular.eot?#iefix') format('embedded-opentype'), 
+       url('../assets/fonts/fira-code-v9-latin-regular.woff2') format('woff2'), 
+       url('../assets/fonts/fira-code-v9-latin-regular.woff') format('woff'), 
+       url('../assets/fonts/fira-code-v9-latin-regular.ttf') format('truetype'),
+       url('../assets/fonts/fira-code-v9-latin-regular.svg#FiraCode') format('svg'); 
+}
